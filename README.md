@@ -13,6 +13,12 @@ Full Stack Developer based in Brazil, focused on building practical web applicat
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### 📊 GitHub Stats
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=igoramericano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoramericano&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
 ### 💻 What I'm Working On
 - Building a functional web **Spotify Clone** for my portfolio.
 - Developing Python automation scripts and exploring AI coding workflows.
