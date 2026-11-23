@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Igor Americano
 
 **Full Stack Developer | Python Automations | AI-Assisted Workflows**
