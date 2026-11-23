@@ -24,7 +24,7 @@ Based in Brazil 🇧🇷, focused on building clean, functional web applications
 
 ### 📫 Let's Connect
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://igoramericano.github.io/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igoramericano)
 
 <!--
 **igoramericano/igoramericano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
